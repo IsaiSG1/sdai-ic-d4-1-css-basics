@@ -1,7 +1,19 @@
 body {
-    background-color: whitesmoke;
+    background-color: #7cc4ff;
 }
 
 p {
-    color: darkslategray;
+    color: #c5379a;
+}
+
+nav{
+    color: black;
+}
+
+li{
+    color:#c5379a;
+}
+
+footer{
+    background-color:#966688 ;
 }
